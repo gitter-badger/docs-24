@@ -1,5 +1,5 @@
 # docs
-Where the docs live
+Where the docs live -> https://github.com/CalendarDeity/docs/wiki
 
 ## Prototype
 
